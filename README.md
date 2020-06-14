@@ -1,0 +1,1 @@
+Quick and dirty project, but I needed a tool to quickly see FITS headers from the Windows file explorer.
