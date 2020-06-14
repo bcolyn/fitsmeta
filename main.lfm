@@ -1,7 +1,7 @@
 object MainForm: TMainForm
-  Left = 575
+  Left = 1030
   Height = 507
-  Top = 230
+  Top = 307
   Width = 825
   Caption = 'FitsMeta'
   ClientHeight = 487
